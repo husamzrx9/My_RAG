@@ -1,6 +1,7 @@
-venv/
+.venv/
+__pycache__/
 data/
 out/
-__pycache__/
-*.pyc
+debug_page.pdf
+*.pdf
 .env
